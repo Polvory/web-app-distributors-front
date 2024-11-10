@@ -1,0 +1,6 @@
+export let TYPE_ADD = '/type-add'
+export let TASK_ADMIN = '/task-admin'
+export let TASK_USER = '/task-user'
+export let USRES_SETTINGS = '/usres-settings'
+export let ADRESSES_SETTINGS = '/adresses-settings'
+export let HOME_PATH = '/'
